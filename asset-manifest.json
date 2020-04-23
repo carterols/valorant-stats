@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valorant-stats/static/css/main.d1b05096.chunk.css",
+    "main.js": "/valorant-stats/static/js/main.25de94d3.chunk.js",
+    "main.js.map": "/valorant-stats/static/js/main.25de94d3.chunk.js.map",
+    "runtime-main.js": "/valorant-stats/static/js/runtime-main.d8787afd.js",
+    "runtime-main.js.map": "/valorant-stats/static/js/runtime-main.d8787afd.js.map",
+    "static/js/2.587f68cf.chunk.js": "/valorant-stats/static/js/2.587f68cf.chunk.js",
+    "static/js/2.587f68cf.chunk.js.map": "/valorant-stats/static/js/2.587f68cf.chunk.js.map",
+    "index.html": "/valorant-stats/index.html",
+    "precache-manifest.47f9e61a14025713ab0986cef7cb2856.js": "/valorant-stats/precache-manifest.47f9e61a14025713ab0986cef7cb2856.js",
+    "service-worker.js": "/valorant-stats/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/valorant-stats/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.587f68cf.chunk.js.LICENSE.txt": "/valorant-stats/static/js/2.587f68cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/valorant-stats/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8787afd.js",
+    "static/js/2.587f68cf.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.25de94d3.chunk.js"
+  ]
+}
